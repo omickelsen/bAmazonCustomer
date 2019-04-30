@@ -20,3 +20,5 @@ Inquire NPM Package (https://www.npmjs.com/package/inquirer)
 
 
 MYSQL NPM Package (https://www.npmjs.com/package/mysql)
+
+![Image description](./bamazonCustomer.gif)
